@@ -1,1 +1,5 @@
 ini adalah file dalam folder flutter, yang dibuat dengan visual studio code
+
+ini saya edit dari vs code kembali ya
+
+semoga bisa ya
