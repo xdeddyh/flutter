@@ -1,2 +1,5 @@
 ini adalah dari github nya
 yang dibuat dalam browsernya
+
+
+kalau ini diedit kembali dengan browsernya , revisi ke2
