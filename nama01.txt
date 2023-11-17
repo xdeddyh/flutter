@@ -1,1 +1,3 @@
 ini adalah file nama2 yang ada
+
+ini yang saya buat dari local ya
