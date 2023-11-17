@@ -1,3 +1,8 @@
 ini adalah file nama2 yang ada
 
 ini yang saya buat dari local ya
+
+nama 01
+nama 02
+nama 03
+nama 04
